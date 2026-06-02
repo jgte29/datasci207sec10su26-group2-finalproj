@@ -24,3 +24,6 @@ statsmodels
 ### Utilities
 joblib
 openpyxl
+
+### Graph Algorithms
+ts2vg
