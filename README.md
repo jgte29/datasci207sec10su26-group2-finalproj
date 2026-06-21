@@ -1,23 +1,5 @@
 # datasci207sec10su26-group2-finalproj
 
-**Visibility Graph-Based Stock Trading Strategies**
-DATASCI 207 Section 10 | Summer 2026 | Prof. Clinton Brownley
-
-Team: Jordan Taqi-Eddin · Javier Salazar · Sangmin Lee
-
----
-
-## Repository Structure
-
-| Branch | Owner | Contents |
-|--------|-------|----------|
-| `main` | — | Base repo |
-| `javier` | Javier | CRSP data pipeline, DSF parquet scripts |
-| `jordan` | Jordan | AVSP computation, XGBoost baseline, simple strategy |
-| `sandy` | Sangmin | EDA notebook |
-
----
-
 ## sandy_eda.ipynb — EDA Summary
 
 **Dataset:** CRSP daily stock data, 2010–2025
