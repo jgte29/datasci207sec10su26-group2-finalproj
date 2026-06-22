@@ -1,0 +1,29 @@
+### Data
+pandas
+numpy
+
+### Market data
+yfinance
+
+### Progress bars
+tqdm
+
+### Visualization
+matplotlib
+plotly
+
+### Machine learning
+scikit-learn
+xgboost
+lightgbm
+
+### Statistical analysis
+scipy
+statsmodels
+
+### Utilities
+joblib
+openpyxl
+
+### Graph Algorithms
+ts2vg
