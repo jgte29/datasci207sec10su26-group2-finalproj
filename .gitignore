@@ -217,6 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-### Additional Ignores
 data/
-models/
